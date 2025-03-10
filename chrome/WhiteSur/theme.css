@@ -28,6 +28,6 @@
 
 /* Set theme version text in customization panel */
 #customization-footer::before {
-	content: "Firefox WhiteSur theme";
-	padding: 9px;
+	content: "Firefox MacOS theme";
+	padding: 11px;
 }
