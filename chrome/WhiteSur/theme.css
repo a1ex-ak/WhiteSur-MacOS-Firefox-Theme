@@ -28,6 +28,6 @@
 
 /* Set theme version text in customization panel */
 #customization-footer::before {
-	content: "Firefox MacOS theme";
+	content: "Firefox MacOS theme v136";
 	padding: 11px;
 }
